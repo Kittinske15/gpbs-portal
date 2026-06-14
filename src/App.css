@@ -14,7 +14,7 @@
     ),
     linear-gradient(135deg, #0b1f3a 0%, #122a52 60%, #0b1f3a 100%);
   color: #fff;
-  padding: 28px 20px 64px;
+  padding: 28px 20px 40px;
 }
 
 .hero-inner {
@@ -83,8 +83,8 @@
 /* ---------- Content ---------- */
 .content {
   max-width: 1080px;
-  margin: -32px auto 0;
-  padding: 0 20px 48px;
+  margin: 0 auto;
+  padding: 28px 20px 48px;
   width: 100%;
   flex: 1;
 }
@@ -92,8 +92,11 @@
 .filters {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 8px;
-  margin-bottom: 24px;
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e7ebf3;
 }
 
 .pill {

@@ -42,43 +42,6 @@ export const projects = [
     status: "live",
   },
 
-  // ---- Add / confirm the URLs below ---------------------------------------
-  {
-    name: "CPF Insight",
-    description: "CPF insight reporting & proposals.",
-    url: "https://ibsdo.com/cpf-insight/",
-    category: "Analytics",
-    initials: "CI",
-    accent: "#9b5de5",
-    status: "soon",
-  },
-  {
-    name: "True Vision War Room",
-    description: "True Vision performance war room.",
-    url: "https://ibsdo.com/true-vision-warroom/",
-    category: "War Room",
-    initials: "TV",
-    accent: "#e84d6e",
-    status: "soon",
-  },
-  {
-    name: "Investment War Room",
-    description: "Investment tracking & decision war room.",
-    url: "https://ibsdo.com/investment-warroom/",
-    category: "War Room",
-    initials: "IW",
-    accent: "#2ec4b6",
-    status: "soon",
-  },
-  {
-    name: "Sustainability PMS",
-    description: "Sustainability program management.",
-    url: "https://ibsdo.com/cp-sustain-pms/",
-    category: "Management",
-    initials: "SP",
-    accent: "#43a047",
-    status: "soon",
-  },
   {
     name: "Bit Scan",
     description: "Bit Scan scanning & analysis tool.",
