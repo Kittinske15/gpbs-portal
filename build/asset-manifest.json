@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gpbs-portal/static/css/main.51211102.css",
+    "main.js": "/gpbs-portal/static/js/main.c59bbb25.js",
+    "index.html": "/gpbs-portal/index.html",
+    "main.51211102.css.map": "/gpbs-portal/static/css/main.51211102.css.map",
+    "main.c59bbb25.js.map": "/gpbs-portal/static/js/main.c59bbb25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51211102.css",
+    "static/js/main.c59bbb25.js"
+  ]
+}
