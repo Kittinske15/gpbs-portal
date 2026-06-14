@@ -25,7 +25,12 @@ export default function App() {
       <header className="hero">
         <div className="hero-inner">
           <div className="brand">
-            <span className="brand-mark">GPBS</span>
+            <img
+              className="brand-logo"
+              src={`${process.env.PUBLIC_URL}/gpbs-logo.png`}
+              alt="GPBS - Global Pro Business Solutions"
+            />
+            <span className="brand-divider" />
             <span className="brand-sub">Portal</span>
           </div>
           <h1 className="hero-title">All your GPBS systems, one place.</h1>
