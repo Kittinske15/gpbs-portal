@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gpbs-portal/static/css/main.87a918db.css",
-    "main.js": "/gpbs-portal/static/js/main.d7f9aeb3.js",
+    "main.js": "/gpbs-portal/static/js/main.1859f2ab.js",
     "index.html": "/gpbs-portal/index.html",
     "main.87a918db.css.map": "/gpbs-portal/static/css/main.87a918db.css.map",
-    "main.d7f9aeb3.js.map": "/gpbs-portal/static/js/main.d7f9aeb3.js.map"
+    "main.1859f2ab.js.map": "/gpbs-portal/static/js/main.1859f2ab.js.map"
   },
   "entrypoints": [
     "static/css/main.87a918db.css",
-    "static/js/main.d7f9aeb3.js"
+    "static/js/main.1859f2ab.js"
   ]
 }

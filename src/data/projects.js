@@ -43,12 +43,30 @@ export const projects = [
   },
 
   {
-    name: "Bit Scan",
-    description: "Bit Scan scanning & analysis tool.",
+    name: "Biz Scan",
+    description: "Biz Scan scanning & analysis tool.",
     url: "https://ibsdo.com/bit-scan/",
     category: "Analytics",
     initials: "BS",
     accent: "#0ea5e9",
+    status: "live",
+  },
+  {
+    name: "HR AI Platform",
+    description: "AI-powered HR management platform.",
+    url: "https://hr-ai-platform-production.up.railway.app/login",
+    category: "Management",
+    initials: "HR",
+    accent: "#a855f7",
+    status: "live",
+  },
+  {
+    name: "GPBS BSC",
+    description: "Balanced Scorecard performance dashboard.",
+    url: "https://ibsdo.com/gpbs-bsc/",
+    category: "Analytics",
+    initials: "BSC",
+    accent: "#22c55e",
     status: "live",
   },
 ];
