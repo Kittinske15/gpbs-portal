@@ -69,6 +69,15 @@ export const projects = [
     accent: "#22c55e",
     status: "live",
   },
+  {
+    name: "GPBS Survey",
+    description: "Webinar topic survey & results.",
+    url: "https://ibsdo.com/gpbs-survey/",
+    category: "Management",
+    initials: "SV",
+    accent: "#e11d48",
+    status: "live",
+  },
 ];
 
 // Build the unique category list for the filter pills (with "All" first).
